@@ -9,14 +9,15 @@ I have simply tried to follow along and code it myself so that I can learn the b
 However, I have added 1-2 little extra things just to play around with the game and give it a little twist! <br>
 
 ## The Game
-This is the code for a Classic Pong Game! <br>
+This is the Classic Pong Game! <br>
 ![Image](https://github.com/astitva1905/Classic-Pong/blob/main/image.jpeg)<br><br>
 
 The left paddle can be moved using the W,S keys and the right paddle can be moved using the Up, Down Arrow keys. <br>
 Whoever reaches 7 points first wins!<br>
 The slight twist is that the ball becomes a little bit faster every time a paddle touches it!! <br>
 Once the Game is over, simply click on the window to Exit. <br?
-
+<br>
+Find the code in the pong.py file!
 #### Enjoy!
 
 
