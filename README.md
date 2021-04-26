@@ -15,7 +15,7 @@ This is the Classic Pong Game! <br>
 The left paddle can be moved using the W,S keys and the right paddle can be moved using the Up, Down Arrow keys. <br>
 Whoever reaches 7 points first wins!<br>
 The slight twist is that the ball becomes a little bit faster every time a paddle touches it!! <br>
-Once the Game is over, simply click on the window to Exit. <br?
+Once the Game is over, simply click on the window to Exit. <br>
 <br>
 Find the code in the pong.py file!
 #### Enjoy!
