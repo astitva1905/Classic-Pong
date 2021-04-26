@@ -10,7 +10,7 @@ However, I have added 1-2 little extra things just to play around with the game 
 
 ## The Game
 This is the code for a Classic Pong Game! <br>
-![Image]()<br><br>
+![Image](https://github.com/astitva1905/Classic-Pong/blob/main/image.jpeg)<br><br>
 
 The left paddle can be moved using the W,S keys and the right paddle can be moved using the Up, Down Arrow keys. <br>
 Whoever reaches 7 points first wins!<br>
