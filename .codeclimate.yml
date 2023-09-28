@@ -6,21 +6,10 @@ plugins:
     enabled: true
   duplication:
     enabled: true
-    config:
-      languages:
-        typescript:
-        javascript:
-        python:
-          python_version: 3
-  eslint:
-    enabled: true
-    channel: "eslint-8"
-    config:
-      config: .eslintrc
   fixme:
     enabled: true
   markdownlint:
-    enabled: true  
+    enabled: true
   shellcheck:
     enabled: true
 
