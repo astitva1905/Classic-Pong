@@ -2,7 +2,8 @@
 ### With a twist
 
 ## Note by Owner 
-This is a Personal Learning Project. I was learning how to play around with turtle,pygame modules in python. <br>
+This is a Personal Learning Project. I was learning how to play around with
+turtle,pygame modules in python. <br>
 This is the first project in which I have used turtle. <br>
 The credits for the idea, code and logic go to [Christian Thompson's video on FreeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=8362s). <br>
 I have simply tried to follow along and code it myself so that I can learn the basics of the turtle module. <br>
