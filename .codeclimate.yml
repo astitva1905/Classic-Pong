@@ -21,7 +21,8 @@ plugins:
     enabled: true
     checks:
       MD013:
-        enabled: false
+        enabled: true
+        line_length: 30
   shellcheck:
     enabled: true
 
