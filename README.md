@@ -8,9 +8,7 @@ This is the first project in which I have used turtle. <br>
 The credits for the idea, code and logic go to [Christian Thompson's video on FreeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=8362s). <br>
 I have simply tried to follow along and code it myself so that I can learn the basics of the turtle module. <br>
 However, I have added 1-2 little extra things just to play around with the game and give it a little twist! <br>
-```python
-jbiubibiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubuibiubiubiubiubiubiubiubiubiubiubiubiubiubuivctydkuyvjh,fdmyrsx,ckvfmyrzxk,jhgxjmyrxc,xjtrrc,
-```
+
 ## The Game
 This is the Classic Pong Game! <br>
 ![Image](https://github.com/astitva1905/Classic-Pong/blob/main/image.jpeg)<br><br>
